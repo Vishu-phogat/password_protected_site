@@ -9,6 +9,7 @@ Install project with npm
 3. npm i body-parser
 4. npm i express
 5. node index.js
+6. use the password vishu123 to access the main file.
 ```
 
 ## Author
